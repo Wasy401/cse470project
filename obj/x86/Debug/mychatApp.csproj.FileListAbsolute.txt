@@ -1,0 +1,2 @@
+C:\Users\User\Downloads\cse470 abar\obj\x86\Debug\mychatApp.csprojAssemblyReference.cache
+C:\Users\User\Downloads\cse470 abar\obj\x86\Debug\mychatApp.csproj.CoreCompileInputs.cache
